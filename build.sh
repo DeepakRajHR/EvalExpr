@@ -1,1 +1,1 @@
-clang++ src.cpp && ./a.out
+clang++ eval.cpp && ./a.out
